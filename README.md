@@ -22,28 +22,6 @@ A clean, responsive, and fully customizable Resume Builder built with **React.js
 
 ---
 
-## 📁 Project Structure
-""
-Resume-builder-main/
-├── public/
-│ ├── index.html # Main HTML template
-│ └── favicon.ico # Site favicon
-
-├── src/
-│ ├── App.js # Main React app
-│ ├── App.css # Global styles
-│ ├── index.js # React DOM rendering
-│ ├── index.css # Additional base styles
-│ ├── Components/ # Reusable components
-│ ├── Pages/ # Page-level components
-│ ├── Context/ # Global state (Context API)
-│ ├── Theme/ # Theme logic and switcher
-│ └── db/ # Mock/static data
-
-├── package.json # Project metadata & scripts
-├── package-lock.json # Package versions lock
-""
-
 
 ---
 
@@ -65,3 +43,6 @@ npm install
 
 # 2️⃣ Start the development server
 npm start
+
+http://localhost:3000
+
