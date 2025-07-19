@@ -7,10 +7,10 @@ A clean, responsive, and fully customizable Resume Builder built with **React.js
 ## 🚀 Features
 
 - 📄 Live resume preview while editing  
-- 🎨 Theme customization (light/dark modes, colors)  
+- 🎨 Theme customization (light/dark modes)  
 - 🧩 Modular and reusable components  
 - ⚡ Fast performance with clean React architecture  
-- 💾 Export to PDF functionality (in progress)
+- 💾 Export to PDF functionality 
 
 ---
 
